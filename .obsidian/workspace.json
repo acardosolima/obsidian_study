@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "984e47a0da51b9cc",
+        "id": "fa7a0ea529e83bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb76804032cf1fc",
+            "id": "18b4449fc1fd01c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "New tab"
             }
           }
         ]
@@ -198,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "797bfc246b4c2ddb",
+  "active": "18b4449fc1fd01c0",
   "lastOpenFiles": [
+    "Test.md",
     "2025-03-22.md",
     "Untitled.canvas",
-    "Test.md",
     "Fundamentals of Statistics.md",
     "2023-05-15.md"
   ]
